@@ -3,7 +3,7 @@
     "base-images": [
       {
         "date": "2018-07-02",
-        "description": "Yara Cloudbreak image",
+        "description": "Cloudbreak image",
         "images": {
           "aws": {
             "eu-west-1": "ami-09fe52c3d346ba0d8"
