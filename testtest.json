@@ -2,7 +2,7 @@
   "images": {
     "base-images": [
       {
-        "date": "2018-07-02",
+        "date": "2019-05-15",
         "description": "Cloudbreak image",
         "images": {
           "aws": {
@@ -25,7 +25,7 @@
           "50397593-14d3-474b-46b5-020f5aeaaeb4"
         ],
         "versions": [
-          "2.7.1"
+          "2.9.0"
         ]
       },
       {
@@ -36,7 +36,7 @@
           "50397593-14d3-474b-46b5-020f5aeaaeb4"
         ],
         "versions": [
-          "2.7.2"
+          "2.9.0"
         ]
       }
     ]
